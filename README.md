@@ -80,7 +80,6 @@ Wszystkie środki wspierają rozwój projektu.
 ## 📬 Kontakt
 
 📧 `domjed.blacksystem@gmail.coml`  
-🌍 [https://github.com/BlackSystem/S_Konwerter](https://github.com/BlackSystem/S_Konwerter)
 
 > W razie pytań dotyczących działania aplikacji lub chęci współpracy – zapraszam do kontaktu.  
 > Każdy zakup wersji PRO wspiera rozwój kolejnych funkcji (m.in. integrację z Google Sheets).
