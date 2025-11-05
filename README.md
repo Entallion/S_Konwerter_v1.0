@@ -1,6 +1,6 @@
 # 📊 S_Konwerter (GUI)
 
-**K_Konwerter** to aplikacja z graficznym interfejsem (GUI) umożliwiająca automatyczne generowanie raportów pomiarowych z urządzeń **Sonel PE/PE6**.  
+**S_Konwerter** to aplikacja z graficznym interfejsem (GUI) umożliwiająca automatyczne generowanie raportów pomiarowych z urządzeń **Sonel PE/PE6**.  
 Program przetwarza dane pomiarowe i tworzy gotowe pliki **CSV/XLSX**, które można otworzyć w dowolnym arkuszu kalkulacyjnym.
 
 ---
@@ -19,7 +19,7 @@ Program przetwarza dane pomiarowe i tworzy gotowe pliki **CSV/XLSX**, które mo�
 ## 🧠 Wersje programu
 
 ### 🧪 DEMO
-- Limitowana liczba plików 5 na uruchomienie   
+- Limitowana liczba plików 5   
 - Dostępne wszystkie podstawowe funkcje (generowanie CSV/XLSX)  
 - Idealna do przetestowania działania aplikacji  
 
